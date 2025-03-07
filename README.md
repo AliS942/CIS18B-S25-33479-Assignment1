@@ -3,7 +3,7 @@ This Java code creates a simple banking system where users can create an account
 
 How to run the program:
 Install Java – Ensure Java is installed (java -version).
-Clone Repository -  
+Clone Repository -  git clone https://github.com/AliS942/CIS-18B-S25-33479.git
 Compile the Program - javac SimpleBankingSystem.java  
 Run the Program - java SimpleBankingSystem  
 Follow Menu Options – Create an account, deposit/withdraw money, check balance, or exit.
